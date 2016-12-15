@@ -10,6 +10,8 @@
 8、isScroll：是否在ACTION_UP时，根据速度进行自滑动，没有要求，建议关闭，过于占用GPU  
 
 下面再看看效果吧：   
+
 ![image](https://github.com/xiaoyunfei/LineChart/blob/master/img/gif_20161215_141019.gif)   
 GIF录制的不太清楚，那就在上一张图片吧    
+
 ![image](https://github.com/xiaoyunfei/LineChart/blob/master/img/img.jpg)
