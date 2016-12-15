@@ -34,7 +34,7 @@ public class ChartView extends View {
     //xy坐标轴宽度
     private int xylinewidth = dpToPx(1);
     //xy坐标轴文字颜色
-    private int xytextcolor = 0xff7e7e7e;//颜色
+    private int xytextcolor = 0xff7e7e7e;
     //xy坐标轴文字大小
     private int xytextsize = spToPx(12);
     //折线图中折线的颜色
