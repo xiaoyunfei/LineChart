@@ -11,7 +11,7 @@
 
 下面再看看效果吧：   
 
-![image](https://github.com/xiaoyunfei/LineChart/blob/master/img/gif_20161215_141019.gif)   
+![image](https://github.com/xiaoyunfei/LineChart/blob/master/img/linechart_gif.gif)   
 GIF录制的不太清楚，那就在上一张图片吧    
 
 ![image](https://github.com/xiaoyunfei/LineChart/blob/master/img/img.jpg)
